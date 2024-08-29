@@ -25,3 +25,5 @@ plt.show()
 #       numpy is one of the dependencies that gets installed along with matplotlib
 
 # To switch back to the root environment, click on the bottom right next to Python and switch to global
+
+print("Hello there!")
