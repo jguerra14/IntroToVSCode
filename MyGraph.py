@@ -27,5 +27,3 @@ plt.show()
 # To switch back to the root environment, click on the bottom right next to Python and switch to global
 
 print("Hello there!")
-
-print("Hello again!")
